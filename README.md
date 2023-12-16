@@ -25,7 +25,7 @@ Features
 	Allows depositing or withdrawing money into/from a specific account.
 
 	Display All Account Holders List
-	Displays details of all account holders with password protection. The default password is set to "password1234".
+Shows a list of all existing account holders with their account numbers, names, account types, and balances.
 
 	Close Account
 	Deletes/closes a specific account based on the provided account number.
@@ -67,8 +67,7 @@ Instructions for Use
 Notes
 	Always provide valid input when prompted.
 	Account numbers are used as identifiers, so ensure to remember or note down account numbers for further operations.
-Security Precautions
-Use a strong and secure password to protect access to the account holder list. The default password is set to "password1234".
+
 
 Options and Configuration
 No specific configuration options are available in the program.
